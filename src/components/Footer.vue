@@ -16,7 +16,7 @@
             "fisico" e "digitale" per descrivere la loro unione. La ricerca progettuale intende approfondire i nuovi codici estetici della Moda
             Contemporanea offerti dal Metaverso e dalle sue tecnologie innovative. Grazie a questi è oggi possibile materializzare forme,
             modelli e design futuristici con estetiche innovative e disruptive, tali da permettere una libera espressione di se, in ogni sua forma.
-        </h2>
+        </h4>
     </div>
 </template>
 
