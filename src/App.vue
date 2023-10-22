@@ -2,6 +2,7 @@
 import { RouterLink, RouterView } from 'vue-router'
 import Header from "./components/Header.vue"
 import Footer from "./components/Footer.vue"
+//#3c3b3a
 </script>
 
 <template>
@@ -14,6 +15,6 @@ import Footer from "./components/Footer.vue"
 
 <style >
 *, body{
-  background: #3c3b3a;
+  background: #000;
 }
 </style>
