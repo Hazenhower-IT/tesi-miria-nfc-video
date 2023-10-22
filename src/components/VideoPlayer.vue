@@ -54,13 +54,14 @@
    <template> 
       <div @dblclick="toggleFullScreen" class="video-preview">
         <video ref="videoPlayer" controls>
-          <source src="src/assets/video-test.mp4" type="video/mp4">
+          <source src="../assets/videoTest.mp4" type="video/mp4">
           Il tuo browser non supporta la riproduzione video.
         </video>
       </div>
   </template>
   
   <script>
+
   export default {
     data() {
       return {
