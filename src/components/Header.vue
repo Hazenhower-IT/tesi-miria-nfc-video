@@ -17,6 +17,7 @@ export default {
 }
 
 .title{
+    font-family: copperplate-ghotic-light ;
     color: #d3d3d3;
     font-size: 60px;
     text-align: center;
