@@ -2,7 +2,7 @@
     <div>
         <h1 class="paragraph-title">Abstract Concettuale</h1>
         
-        <h2 class="paragraph">
+        <h4 class="paragraph">
             La ricerca di tesi ha avuto come obbiettivo lo studio dell'incontro tra due mondi: quello reale e il virtuale. 
             Ciò che mette in contatto tali mondi è il corpo, che può essere sinolo di materia, in quanto esistenza, oppure
             trasporsi nel digitale, ossia una sua proiezione idealizzata in un mondo virtuale. Questo mondo intangibile,
