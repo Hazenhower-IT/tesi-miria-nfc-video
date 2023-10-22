@@ -12,18 +12,25 @@ export default {
 </script>
 
 <style scoped>
+@font-face{
+    font-family: copperplate-ghotic-light;
+    src: url("../assets/fonts/CopperplateGothicLightRegular.ttf") format("truetype");
+}
+
 *{
     color: #d3d3d3;
 }
 
+
 .title{
-    font-family: copperplate-ghotic-light ;
+    font-family: copperplate-ghotic-light;
     color: #d3d3d3;
     font-size: 60px;
     text-align: center;
 }
     
 .sub-title{
+    font-family: copperplate-ghotic-light;
     color:#d3d3d3;
     text-align: center;
 }

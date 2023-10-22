@@ -27,14 +27,20 @@ export default {
 </script>
 
 <style scoped>
+@font-face{
+    font-family: copperplate-ghotic-light;
+    src: url("../assets/fonts/CopperplateGothicLightRegular.ttf") format("truetype");
+}
 
 .paragraph-title{
     color: #d3d3d3;
     text-align: center;
+    font-family: copperplate-ghotic-light;
 }
 
 .paragraph{
     color: #d3d3d3;
     padding: 0 60px;
+    font-family: copperplate-ghotic-light;
 }
 </style>
