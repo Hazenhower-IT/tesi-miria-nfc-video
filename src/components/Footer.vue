@@ -35,5 +35,6 @@ export default {
 
 .paragraph{
     color: #d3d3d3;
+    padding: 0 60px;
 }
 </style>
