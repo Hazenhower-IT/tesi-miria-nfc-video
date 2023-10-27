@@ -36,11 +36,13 @@ export default {
     color: #d3d3d3;
     text-align: center;
     font-family: helvetica-light-regular;
+    font-weight: 300;
 }
 
 .paragraph{
     color: #d3d3d3;
     padding: 0 60px;
     font-family: helvetica-light-regular;
+    font-weight: 300;
 }
 </style>
