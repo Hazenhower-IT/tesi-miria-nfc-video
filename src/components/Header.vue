@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h1 class="title">PHYGITAL COUTURE</h1>
-        <h1 class="sub-title">I Nuovi Codici Estetici Nella Moda Contemporanea</h1>
+        <h2 class="title">PHYGITAL COUTURE</h2>
+        <h3 class="sub-title">I Nuovi Codici Estetici Nella Moda Contemporanea</h3>
     </div>
 </template>
 
@@ -25,7 +25,7 @@ export default {
 .title{
     font-family: helvetica-ultra-light;
     color: #d3d3d3;
-    font-size: 60px;
+    
     text-align: center;
 }
     
