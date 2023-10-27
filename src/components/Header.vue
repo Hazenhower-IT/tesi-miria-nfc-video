@@ -13,8 +13,8 @@ export default {
 
 <style scoped>
 @font-face{
-    font-family: copperplate-ghotic-light;
-    src: url("../assets/fonts/CopperplateGothicLightRegular.ttf") format("truetype");
+    font-family: helvetica-ultra-light;
+    src: url("../assets/fonts/helvetica-ultra-light.otf") format("truetype");
 }
 
 *{
@@ -23,14 +23,14 @@ export default {
 
 
 .title{
-    font-family: copperplate-ghotic-light;
+    font-family: helvetica-ultra-light;
     color: #d3d3d3;
     font-size: 60px;
     text-align: center;
 }
     
 .sub-title{
-    font-family: copperplate-ghotic-light;
+    font-family: helvetica-ultra-light;
     color:#d3d3d3;
     text-align: center;
 }

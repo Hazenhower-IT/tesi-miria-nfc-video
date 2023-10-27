@@ -28,19 +28,19 @@ export default {
 
 <style scoped>
 @font-face{
-    font-family: copperplate-ghotic-light;
-    src: url("../assets/fonts/CopperplateGothicLightRegular.ttf") format("truetype");
+    font-family: helvetica-light-regular;
+    src: url("../assets/fonts/HelveticaLightRegular.otf") format("truetype");
 }
 
 .paragraph-title{
     color: #d3d3d3;
     text-align: center;
-    font-family: copperplate-ghotic-light;
+    font-family: helvetica-light-regular;
 }
 
 .paragraph{
     color: #d3d3d3;
     padding: 0 60px;
-    font-family: copperplate-ghotic-light;
+    font-family: helvetica-light-regular;
 }
 </style>
