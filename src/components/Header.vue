@@ -1,7 +1,7 @@
 <template>
     <div>
         <h2 class="title">PHYGITAL COUTURE</h2>
-        <h3 class="sub-title">I Nuovi Codici Estetici Nella Moda Contemporanea</h3>
+        <h3 class="sub-title">I nuovi codici estetici nella Moda contemporanea</h3>
     </div>
 </template>
 

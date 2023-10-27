@@ -2,7 +2,7 @@
     <div>
         <h2 class="paragraph-title">Abstract Concettuale</h2>
         
-        <h3 class="paragraph">
+        <p class="paragraph">
             La ricerca di tesi ha avuto come obbiettivo lo studio dell'incontro tra due mondi: quello reale e il virtuale. 
             Ciò che mette in contatto tali mondi è il corpo, che può essere sinolo di materia, in quanto esistenza, oppure
             trasporsi nel digitale, ossia una sua proiezione idealizzata in un mondo virtuale. Questo mondo intangibile,
@@ -16,7 +16,7 @@
             "fisico" e "digitale" per descrivere la loro unione. La ricerca progettuale intende approfondire i nuovi codici estetici della Moda
             Contemporanea offerti dal Metaverso e dalle sue tecnologie innovative. Grazie a questi è oggi possibile materializzare forme,
             modelli e design futuristici con estetiche innovative e disruptive, tali da permettere una libera espressione di se, in ogni sua forma.
-        </h3>
+        </p>
     </div>
 </template>
 
@@ -35,8 +35,8 @@ export default {
 .paragraph-title{
     color: #d3d3d3;
     text-align: center;
-    font-family: helvetica-light-regular;
-    font-weight: 300;
+    font-family: helvetica-ultra-light;
+   
 }
 
 .paragraph{
